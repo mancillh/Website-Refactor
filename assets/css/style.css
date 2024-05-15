@@ -25,6 +25,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/* navigation bar code */
 header nav {
     padding-top: 20px;
     margin-right: 15px;
@@ -50,6 +51,7 @@ p {
     font-size: 16px;
 }
 
+/*large image just below navigation bar */
 .main-image {
     height: 800px;
     width: 100%;
@@ -59,22 +61,26 @@ p {
     background-position: center;
 }
 
+/* allows images in Search Engine Optimization and Social Media Marketing sections to display left within their boxes */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* allows image in Online Reputation Management section to display right within its box */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/* formatting to allow Search Engine Optimization, Online Reputation Management and Social Media Marketing sections to stay on the left side of the side bar and stack on top of each other */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* formatting for right side bar */
 .benefits {
     margin-right: 20px;
     margin-bottom: 32px;
@@ -88,22 +94,26 @@ p {
     background-color: #2589bd;
 }
 
+/* formatting for right side bar headings */
 .benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* formatting for right side bar images */
 .benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* formatting for right side bar to break text into three sections */
 .benefits section {
     margin-bottom: 30px;
 }
 
-/*added id search-engine-optimization to allow link to work properly*/
+/*added id=search-engine-optimization in html to allow link to work properly */
+/*general formatting for Search Engine Optimization, Online Reputation Management and Social Media Marketing sections */
 .main-section {
     margin-bottom: 20px;
     padding: 50px;
@@ -114,16 +124,20 @@ p {
 }
 
 /*added alternative text for all images*/
+/*formatting for images in Search Engine Optimization, Online Reputation Management and Social Media Marketing sections */
 .main-section img {
     max-height: 200px;
 }
 
+/*formatting for headers in Search Engine Optimization, Online Reputation Management and Social Media Marketing sections */
 .main-section h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-/*removed div footer and used semantic footer tag instead, increased padding to accommodate one of the links */
+/*removed div footer and used semantic footer tag instead */ 
+/* I chose to increase padding to accommodate the Social Media Marketing link, so it would display at the top of the screen like the Search Engine Optimization and Online Reputation Management sections*/
+/* added my own copyright instead of existing one */
 footer {
     padding-top: 150px;
     padding-bottom: 20px;
