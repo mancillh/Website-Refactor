@@ -193,7 +193,7 @@ p {
 
 /*removed div footer and used semantic footer tag instead*/
 footer {
-    padding: 30px;
+    padding: 100px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 20px;
