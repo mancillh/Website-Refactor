@@ -53,7 +53,7 @@ p {
 
 /*Removed URL here and added image and alt text to html to make the image more accessible */
 /*formatting for large image just below navigation bar */
-.main-image {
+.main-image img{
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
