@@ -1,10 +1,10 @@
-# Week-1-Challenge
-May 2024 Coding Boot Camp Week 1 Challenge
+# Website-Refactor
+May 2024 Coding Boot Camp Week 1 Challenge: Website Refactor
 
-link: https://mancillh.github.io/Week-1-Challenge/
+link: https://mancillh.github.io/Website-Refactor/
 
 Screenshot:
-![Screenshot of Website](<Week-1-Challenge screenshot.png>)
+![Horiseon Website Screenshot](Horiseon.png)
 
 Description:
 I have refactored a website to improve the codebase for long-term sustainability. I have checked that all links are functioning correctly. I have increased the efficiency of the CSS by consolidating the selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
